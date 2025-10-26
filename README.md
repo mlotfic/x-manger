@@ -1,13 +1,13 @@
-# x-files
+# x-manger
 
-![PyPI version](https://img.shields.io/pypi/v/x-files.svg)
-[![Documentation Status](https://readthedocs.org/projects/x-files/badge/?version=latest)](https://x-files.readthedocs.io/en/latest/?version=latest)
+![PyPI version](https://img.shields.io/pypi/v/x-manger.svg)
+[![Documentation Status](https://readthedocs.org/projects/x-manger/badge/?version=latest)](https://x-manger.readthedocs.io/en/latest/?version=latest)
 
- **X-Files** provides a unified, production-ready interface for all file management operations in Python applications. Handle data, cache, temp files, archives, and logging through a single, intuitive API.
+ **x-manger** provides a unified, production-ready interface for all file management operations in Python applications. Handle data, cache, temp files, archives, and logging through a single, intuitive API.
 
-* PyPI package: https://pypi.org/project/x-files/
+* PyPI package: https://pypi.org/project/x-manger/
 * Free software: MIT License
-* Documentation: https://x-files.readthedocs.io.
+* Documentation: https://x-manger.readthedocs.io.
 
 ## Features
 

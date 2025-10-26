@@ -3,7 +3,7 @@
 import typer
 from rich.console import Console
 
-from x_files import utils
+from x_manger import utils
 
 app = typer.Typer()
 console = Console()

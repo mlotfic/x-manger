@@ -1,7 +1,7 @@
 [project]
-name = "x-files"
+name = "x-manger"
 version = "0.1.0"
-description = " **X-Files** provides a unified, production-ready interface for all file management operations in Python applications. Handle data, cache, temp files, archives, and logging through a single, intuitive API."
+description = " **x-manger** provides a unified, production-ready interface for all file management operations in Python applications. Handle data, cache, temp files, archives, and logging through a single, intuitive API."
 readme = "README.md"
 authors = [
   {name = "Mahmoud Lotfi", email = "mlotfic@gmail.com"}
@@ -28,9 +28,9 @@ test = [
 ]
 
 [project.urls]
-bugs = "https://github.com/mlotfic/x-files/issues"
-changelog = "https://github.com/mlotfic/x-files/blob/master/changelog.md"
-homepage = "https://github.com/mlotfic/x-files"
+bugs = "https://github.com/mlotfic/x-manger/issues"
+changelog = "https://github.com/mlotfic/x-manger/blob/master/changelog.md"
+homepage = "https://github.com/mlotfic/x-manger"
 
 [project.scripts]
 x_files = "x_files.cli:app"

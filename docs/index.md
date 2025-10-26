@@ -1,4 +1,4 @@
-# Welcome to x-files's documentation!
+# Welcome to x-manger's documentation!
 
 ## Contents
 

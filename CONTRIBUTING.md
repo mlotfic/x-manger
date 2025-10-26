@@ -26,7 +26,7 @@ Look through the GitHub issues for features. Anything tagged with "enhancement" 
 
 ### Write Documentation
 
-x-files could always use more documentation, whether as part of the official docs, in docstrings, or even on the web in blog posts, articles, and such.
+x-manger could always use more documentation, whether as part of the official docs, in docstrings, or even on the web in blog posts, articles, and such.
 
 ### Submit Feedback
 

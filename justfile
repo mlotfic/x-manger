@@ -1,4 +1,4 @@
-# Justfile for x-files
+# Justfile for x-manger
 
 # Show available commands
 list:

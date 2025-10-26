@@ -2,21 +2,21 @@
 
 ## Stable release
 
-To install x-files, run this command in your terminal:
+To install x-manger, run this command in your terminal:
 
 ```sh
-uv add x-files
+uv add x-manger
 ```
 
 Or if you prefer to use `pip`:
 
 ```sh
-pip install x-files
+pip install x-manger
 ```
 
 ## From source
 
-The source files for x-files can be downloaded from the [Github repo](https://github.com/mlotfic/x_files).
+The source files for x-manger can be downloaded from the [Github repo](https://github.com/mlotfic/x_files).
 
 You can either clone the public repository:
 

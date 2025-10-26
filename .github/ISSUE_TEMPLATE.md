@@ -1,4 +1,4 @@
-* x-files version:
+* x-manger version:
 * Python version:
 * Operating System:
 
